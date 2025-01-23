@@ -4,13 +4,13 @@ Welcome to the Time Series Analysis and Forecasting with Python repository. This
 
 ## Contents
 
-- **[More About the Data](https://github.com/Pulkit12dhingra/Time_Series_Forcasting/blob/main/Time_Series_Data_Analysis.ipynb)**
+- **[More About the Data](https://github.com/Pulkit12dhingra/Time_Series_Forcasting/blob/main/Data_Analysis.ipynb)**
   
 - **[Conventional Time Series methods]**
-    - [conventional Methods](https://github.com/Pulkit12dhingra/Time_Series_Forcasting/blob/main/Time_Series_Forecasting_Traditional_Methods.ipynb)
+    - [conventional Methods](https://github.com/Pulkit12dhingra/Time_Series_Forcasting/blob/main/Traditional_Methods_Forecasting.ipynb)
 
 - **[Deep Learning for Time Series Forecasting]**
-    - [LSTMs](https://github.com/Pulkit12dhingra/Time_Series_Forcasting/blob/main/Time_Series_Forecasting_With_LSTMs.ipynb)
+    - [LSTMs](https://github.com/Pulkit12dhingra/Time_Series_Forcasting/blob/main/Forecasting_LSTMs.ipynb)
 
-- **[Forecasting with FBProphet]**
-    - [Univariate and Multivariate Forecasting](https://github.com/Pulkit12dhingra/Time_Series_Forcasting/blob/main/Time_Series_Forecasting_With_Prophet.ipynb)
+- **[Forecasting with Prophet]**
+    - [Univariate and Multivariate Forecasting](https://github.com/Pulkit12dhingra/Time_Series_Forcasting/blob/main/Forecasting_With_Prophet.ipynb)
