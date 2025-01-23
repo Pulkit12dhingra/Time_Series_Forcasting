@@ -4,18 +4,13 @@ Welcome to the Time Series Analysis and Forecasting with Python repository. This
 
 ## Contents
 
-- **[Datasets Info](https://github.com/ajitsingh98/Time-Series-Analysis-and-Forecasting-with-Python/blob/master/Datasets_Info.md)**
-
-- **[Introduction to Time Series Analysis](https://github.com/ajitsingh98/Time-Series-Analysis-and-Forecasting-with-Python/blob/master/Introduction_TSA.md)**
-    - Taxonomy of Time Series Analysis Domain
-    - Best Practices for Forecasting Model Selection
-    - Simple and Classical Forecasting Methods
-    - Time Series to Supervised Learning Problem
-    - Deep Learning for Time Series Forecasting
-
+- **[More About the Data](https://github.com/Pulkit12dhingra/Time_Series_Forcasting/blob/main/Time_Series_Data_Analysis.ipynb)**
+  
+- **[Conventional Time Series methods](#)**
+    - [conventional Methods](https://github.com/Pulkit12dhingra/Time_Series_Forcasting/blob/main/Time_Series_Forecasting_Traditional_Methods.ipynb)
 
 - **[Deep Learning for Time Series Forecasting](#)**
-    - [LSTMs](https://github.com/ajitsingh98/Time-Series-Analysis-and-Forecasting-with-Python/blob/master/Time_Series_Forecasting_With_LSTMs.ipynb)
+    - [LSTMs](https://github.com/Pulkit12dhingra/Time_Series_Forcasting/blob/main/Time_Series_Forecasting_With_LSTMs.ipynb)
 
 - **[Forecasting with FBProphet](#)**
-    - [Univariate and Multivariate Forecasting](https://github.com/ajitsingh98/Time-Series-Analysis-and-Forecasting-with-Python/blob/master/Time_Series_Forecasting_With_Prophet.ipynb)
+    - [Univariate and Multivariate Forecasting](https://github.com/Pulkit12dhingra/Time_Series_Forcasting/blob/main/Time_Series_Forecasting_With_Prophet.ipynb)
